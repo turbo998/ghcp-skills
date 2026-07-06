@@ -21,6 +21,10 @@ Azure SA（Solution Architect）日常工作相关的 Hermes / GitHub Copilot sk
 - [`azure-style-presentation/`](./azure-style-presentation/) — Azure 风格 PPT。
 - [`ppt-template-strict-offering/`](./ppt-template-strict-offering/) — 严格遵循 offering 模板的 PPT 流程。
 
+### 备份 / Backup
+
+- [`onedrive-azure-backup/`](./onedrive-azure-backup/) — OneDrive 本地文件夹增量备份到 Azure Blob（AzCopy copy 首次全量 + sync 每月增量，排除微信实时缓存）。
+
 ---
 
 ## 用法
